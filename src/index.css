@@ -1,0 +1,10 @@
+.task-item {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 0.5em;
+}
+
+.task-item .delete-button {
+    margin-left: 0.5em;
+    cursor: pointer;
+}
